@@ -1,0 +1,6 @@
+feedback=input("Enter your feedback:")
+value=input("Enter your value:")
+age=int(input("Enter your age:"))
+print("feedback variable type:",type(feedback))
+print("value variable type:",type(value))
+print("age variable type:",type(age))
